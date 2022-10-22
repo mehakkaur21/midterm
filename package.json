@@ -33,14 +33,14 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehakkaur21/midterm.git"
+    "url": "git+https://github.com/mehakkaur21/finalmidterm.git"
   },
   "author": "Mehak kaur",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mehakkaur21/midterm.git/issues"
+    "url": "https://github.com/mehakkaur21/finalmidterm.git/issues"
   },
-  "homepage": "https://github.com/mehakkaur21/midterm#readme",
+  "homepage": "https://github.com/mehakkaur21/finalmidterm#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
