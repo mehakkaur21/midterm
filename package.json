@@ -31,16 +31,10 @@
   },
   "description": "COMP229- MIDTERM-2022",
   "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mehakkaur21/midterm"
-  },
+
   "author": "Mehak kaur",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mehakkaur21/midterm/issues"
-  },
-  "homepage": "https://github.com/mehakkaur21/midterm#readme",
+
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
